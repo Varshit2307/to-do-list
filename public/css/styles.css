@@ -104,11 +104,12 @@ footer {
 
 .fa {
   padding: 20px;
-  font-size: 30px;
+  font-size: 5px;
   width: 30px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  margin-top: 20px;
 }
 
 .fa-facebook {
