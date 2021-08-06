@@ -5,7 +5,6 @@ const mongoose = require('mongoose');
 const _ = require("lodash");
 
 const app = express();
-const port = 3000;
 // const items = ["Buy Food","Cook Food","Eat Food"];
 // const workItems = [];
 mongoose.connect('mongodb+srv://Shinchan123:Shinchan123@cluster0.61awt.mongodb.net/todolistDB', {useNewUrlParser: true, useUnifiedTopology: true});
